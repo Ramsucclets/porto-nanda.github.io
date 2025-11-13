@@ -77,12 +77,12 @@ Deployment dan manajemen game server private menggunakan Infrastructure as a Ser
 - Vultr
 
 ####  **Website Personal**
-Website portfolio dan blog personal yang dapat diakses di [masquetex.site](https://masquetex.site)
+Website temporary file upload, untuk file kecil [masquetex.site](https://masquetex.site)
 
 **Features:**
-- Responsive Design
-- Portfolio Showcase
-- Blog Integration
+- Backend menggunakan Nodejs and AWS
+- File Expire setelah 7 Hari
+- Cloudflar DNS
 
 ---
 
