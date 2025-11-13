@@ -123,7 +123,4 @@ Website portfolio dan blog personal yang dapat diakses di [masquetex.site](https
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
-
-**Made with ❤️ by Dhama Nanda**
-
 *Last Updated: November 2025*
