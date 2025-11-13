@@ -7,13 +7,12 @@ NIM : 2702244422
 
 Github Account : https://github.com/Ramsucclets
 
-CV Link 
-
+CV Link : https://drive.google.com/file/d/1F1rwHVWtnVxtw4aDb1_wp0Jak7zJruGS/view?usp=sharing
 
 
 Project 1 : UltraSonic Range finder
 
-Project 2 : Simple 12V Power Supply
+Project 2 : Power Supply 12 Volt
 
 Project 3 : DOORLOCK V1
 
@@ -29,11 +28,13 @@ Project 8 : BuYoS web (ongoing)
 
 Personal Projects : 
 
-Various Linux & AI inference and implementation using cloud
+Projek Linux dan implementasi AI untuk berbagai hal
 
-Private Game Servers
+Game Server Privat menggunakan IaaS dari berbagai cloud provider
 
-Personal Website 
+
+Website Personal
+masquetex.site
 
 
 
