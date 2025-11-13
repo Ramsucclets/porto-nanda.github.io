@@ -88,6 +88,8 @@ Website portfolio dan blog personal yang dapat diakses di [masquetex.site](https
 
 ##  Badges & Certifications
 
+**AWS Academy Graduate - Cloud Foundations - Training Badge**
+
 [![Credly Badge](https://img.shields.io/badge/View_Certifications-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/13b396cb-7247-4f46-b62c-624d05a2316e)
 
 ---
