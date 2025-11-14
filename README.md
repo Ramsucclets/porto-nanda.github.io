@@ -8,6 +8,7 @@
 **Nama:** Dhama Nanda  
 **NIM:** 2702244422  
 **Universitas:** Binus University
+**No Telp:** +628158888123
 
 [📄 Download CV](https://drive.google.com/file/d/1F1rwHVWtnVxtw4aDb1_wp0Jak7zJruGS/view?usp=sharing) • [💻 GitHub Profile](https://github.com/Ramsucclets) • [🌐 Website Personal](https://masquetex.site)
 
