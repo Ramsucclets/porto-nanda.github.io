@@ -56,7 +56,8 @@ Implementasi dan konfigurasi berbagai virtual machine sebagai server DNS dan Sto
 #### 7.  **Doorlock V5**
 Sistem keamanan pintu dengan fitur biometrik fingerprint scanner, serta keypad. 
 
-#### 8. **BuYoS Web** `Ongoing`
+#### 8. **buyos.store** `Ongoing`
+
 Platform web e-commerce yang sedang dalam tahap pengembangan. Menggunakan Vue sebagai front-end, Node.js backend, Database menggunakan postgresql, dan di host menggunakan AWS.
 
 ---
