@@ -54,7 +54,7 @@ Simulasi jaringan komputer menggunakan Cisco Packet Tracer untuk proyek akhir me
 Implementasi dan konfigurasi berbagai virtual machine sebagai server DNS dan Storage, yang dihubung secara LAN ke 2 laptop berbeda.
 
 #### 7.  **Doorlock V5**
-Sistem keamanan pintu dengan fitur biometrik, serta keypad. 
+Sistem keamanan pintu dengan fitur biometrik fingerprint scanner, serta keypad. 
 
 #### 8. **BuYoS Web** `Ongoing`
 Platform web e-commerce yang sedang dalam tahap pengembangan. Menggunakan Vue sebagai front-end, Node.js backend, Database menggunakan postgresql, dan di host menggunakan AWS.
