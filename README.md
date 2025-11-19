@@ -1,4 +1,4 @@
-#  Portfolio Magang Binus - Dhama Nanda
+#  Portfolio - Dhama Nanda
 
 ![GitHub Profile](https://img.shields.io/badge/GitHub-Ramsucclets-181717?style=for-the-badge&logo=github)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
