@@ -36,35 +36,35 @@ Mahasiswa Binus University yang passionate dalam bidang teknologi, khususnya di 
 ### Academic Projects
 
 #### 1.  **UltraSonic Range Finder**
-Sistem pengukuran jarak menggunakan sensor ultrasonik untuk aplikasi monitoring dan deteksi objek.
+Sistem pengukuran jarak menggunakan sensor ultrasonik untuk  mengukur jarak yang kemudian di display.
 
 #### 2.  **Power Supply 12 Volt**
-Perancangan dan implementasi power supply dengan output 12V untuk keperluan elektronika.
+Perancangan dan implementasi power supply dengan output 12V menggunakan op-amp dan transistor.
 
 #### 3.  **DOORLOCK V1**
-Sistem keamanan pintu elektronik generasi pertama dengan fitur dasar kontrol akses.
+Sistem keamanan pintu elektronik menggunakan FPGA.
 
 #### 4.  **StorEdge 2.0**
-Solusi penyimpanan data edge computing dengan optimasi performa dan keamanan.
+Aplikasi inventory sorting, dengan flutter sebagai frontend dan menggunakan firebase backend. 
 
 #### 5.  **Packet Tracer Lab Simulation**
-Simulasi jaringan komputer menggunakan Cisco Packet Tracer untuk pembelajaran dan testing topologi network.
+Simulasi jaringan komputer menggunakan Cisco Packet Tracer untuk proyek akhir mengsimulasikan 3 kelas lab (60+ PC) dengan switch serta router. 
 
 #### 6.  **Virtual Machine Projects**
-Implementasi dan konfigurasi berbagai virtual machine untuk keperluan testing dan development environment.
+Implementasi dan konfigurasi berbagai virtual machine sebagai server DNS dan Storage, yang dihubung secara LAN ke 2 laptop berbeda.
 
 #### 7.  **Doorlock V5**
-Upgrade sistem doorlock dengan fitur-fitur canggih dan peningkatan keamanan.
+Sistem keamanan pintu dengan fitur biometrik, serta keypad. 
 
 #### 8. **BuYoS Web** `Ongoing`
-Platform web e-commerce yang sedang dalam tahap pengembangan.
+Platform web e-commerce yang sedang dalam tahap pengembangan. Menggunakan Vue sebagai front-end, Node.js backend, Database menggunakan postgresql, dan di host menggunakan AWS.
 
 ---
 
 ### Personal Projects
 
 ####  **Linux & AI Implementation**
-Eksplorasi dan implementasi teknologi AI pada sistem Linux untuk berbagai use case dan automation.
+Eksplorasi dan implementasi teknologi AI pada sistem Linux, seperti stable-diffusion, LMstudio, unsloth, etc. 
 
 **Tech Stack:** Linux, Python, Machine Learning Libraries
 
@@ -81,9 +81,9 @@ Deployment dan manajemen game server private menggunakan Infrastructure as a Ser
 Website temporary file upload, untuk file kecil [masquetex.site](https://masquetex.site)
 
 **Features:**
-- Backend menggunakan Nodejs and AWS
+- Backend menggunakan Node.js and AWS
 - File Expire setelah 7 Hari
-- Cloudflar DNS
+- Cloudflare DNS
 
 ---
 
@@ -100,6 +100,7 @@ Website temporary file upload, untuk file kecil [masquetex.site](https://masquet
 **Hardware & Embedded:**
 - Arduino
 - Raspberry Pi
+- ESP32
 - Sensors & Actuators
 
 **Networking:**
@@ -115,6 +116,7 @@ Website temporary file upload, untuk file kecil [masquetex.site](https://masquet
 **Programming:**
 - Python
 - JavaScript
+- C++
 - Bash Scripting
 
 ---
