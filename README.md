@@ -56,9 +56,9 @@ Implementasi dan konfigurasi berbagai virtual machine sebagai server DNS dan Sto
 #### 7.  **Doorlock V5**
 Sistem keamanan pintu dengan fitur biometrik fingerprint scanner, serta keypad. 
 
-#### 8. **buyos.store** `Ongoing`
+#### 8. **buyos.store** 
 
-Platform web e-commerce yang sedang dalam tahap pengembangan. Menggunakan Vue sebagai front-end, Node.js backend, Database menggunakan postgresql, dan di host menggunakan AWS.
+Platform web e-commerce yang sedang dalam tahap pengembangan. Menggunakan Vue sebagai front-end, Node.js backend, dan di host menggunakan Azure Static Web serta, App Service.
 
 ---
 
@@ -78,7 +78,7 @@ Deployment dan manajemen game server private menggunakan Infrastructure as a Ser
 - Digital Ocean
 - Vultr
 
-####  **Website Personal**
+####  **Temporary Upload Website | ON MAINTENANCE** 
 Website temporary file upload, untuk file kecil [masquetex.site](https://masquetex.site)
 
 **Features:**
