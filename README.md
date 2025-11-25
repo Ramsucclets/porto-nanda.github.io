@@ -10,7 +10,7 @@
 **Universitas:** Binus University  
 **No Telp:** +628158888123
 
-[📄 Download CV](https://drive.google.com/file/d/1F1rwHVWtnVxtw4aDb1_wp0Jak7zJruGS/view?usp=sharing) • [💻 GitHub Profile](https://github.com/Ramsucclets) • [🌐 Website Personal](https://masquetex.site)
+[📄 Download CV](https://drive.google.com/file/d/1F1rwHVWtnVxtw4aDb1_wp0Jak7zJruGS/view?usp=sharing) • [💻 GitHub Profile](https://github.com/Ramsucclets) • [🌐 Website Personal](https://siccletz.site)
 
 ---
 
@@ -125,7 +125,7 @@ Website temporary file upload, untuk file kecil [masquetex.site](https://masquet
 ##  Kontak
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ramsucclets-181717?style=for-the-badge&logo=github)](https://github.com/Ramsucclets)
-[![Website](https://img.shields.io/badge/Website-masquetex.site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://masquetex.site)
+[![Website](https://img.shields.io/badge/Website-masquetex.site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://siccletz.site)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
